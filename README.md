@@ -1,10 +1,37 @@
-# <h1 align="center">Hi, I'm Marah Aljabali<img width="30px" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif"></h1>
-<h3 align="center">Ambitious Engineer</h3>
+<h3 align="center">🚀 Ambitious Engineer 👩🏻‍💻</h3>
+
 <br/>
-- 👀 I’m currently learning Computer Engineering, and I secure a place on the Excellence List.
+
+<h5 align="center">
+🎓 Final-year Honor Computer Engineering student with a strong academic record and hands-on experience in programming, web development, and data science.
+</h5>
+
 <br/>
-- 🌱 I’m Front-End developer.
-- 🌱 I’m interested in Data Science and AI.
+
+### 👩🏻‍💻 About Me
+- 🌱 I’m a passionate **Front-End Developer**.
+- 🤖 Interested in **Data Science** & **Artificial Intelligence**, and how they can solve real-world problems and improve lives.
+- 📚 Constantly learning and building to grow as an engineer.
+
 <br/>
-- ⚡ My skills extend across web development technologies and tools: HTML5, CSS, CSS3, JavaScript (ES6),React, Vite, Bootstrap, React-Bootstrap, Matirial UI, React Hook Form, etc.. Additionally, I have a solid understanding of Java, object-oriented programming.
+
+### 🛠️ Technical Skills
+
+#### ⚡ Data Science & AI
+- Python libraries: `NumPy`, `Pandas`, `Matplotlib`, `Seaborn`, `Plotly`, `Dash`
+- Machine Learning concepts & tools
+
+#### ⚡ Web Development
+- **Languages & Frameworks**: `HTML5`, `CSS3`, `JavaScript (ES6)`, `React`, `Vite`
+- **UI Libraries**: `Bootstrap`, `React-Bootstrap`, `Material UI`, `React Hook Form`
+- Building responsive and interactive UIs
+
+#### ⚡ Programming Foundations
+- Strong knowledge of `Java`, `Python`
+- Solid understanding of `Object-Oriented Programming (OOP)` and `Data Structures & Algorithms (DSA)`
+
+<br/>
+
+### 🤝 Let's Connect!
+Feel free to check out my repositories or connect with me for collaborations, internships, or exciting opportunities!
 
