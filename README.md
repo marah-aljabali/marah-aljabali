@@ -1,4 +1,4 @@
-<h3 align="center">🚀 Ambitious Engineer 👩🏻‍💻</h3>
+<h3 align="center">I'm Marah Aljabali | Ambitious Engineer 👩🏻‍💻</h3>
 
 <br/>
 
@@ -30,7 +30,13 @@
 - Strong knowledge of `Java`, `Python`
 - Solid understanding of `Object-Oriented Programming (OOP)` and `Data Structures & Algorithms (DSA)`
 
-<br/>
+<br>
+
+### 🌱 Currently
+- Deepening my understanding of data science applications
+- Receiving one-on-one mentorship from a senior expert in Data Science & AI
+- Building things that make life easier, smarter, and more beautiful
+---
 
 ### 🤝 Let's Connect!
 Feel free to check out my repositories or connect with me for collaborations, internships, or exciting opportunities!
