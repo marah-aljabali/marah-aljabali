@@ -38,9 +38,7 @@ Driven by curiosity and purpose — exploring how technology and data can solve 
 
 ## 🧩 Featured Projects  
 
-### 🔹 Smart Medical Appointment System *(In Progress)*  
-Currently developing a web-based platform that automates appointment scheduling and uses data analysis to improve clinic efficiency and patient experience.  
-Focus: data-driven system design, workflow optimization, and intelligent scheduling logic.  
+### 🔹 Ai-based Graduation Project *(In Progress)*    
 
 ### 🔹 DataScience-AI  
 A collection of tasks and exercises completed under one-on-one mentorship in **Data Science and Artificial Intelligence**.  
